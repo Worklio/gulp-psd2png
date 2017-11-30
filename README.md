@@ -14,7 +14,7 @@ While coping all files from folder `src/img` to folder `dist/img` convert PSD fi
 ```js
 var psd2png = require('gulp-psd2png');
 
-gulp.task('scripts', function() {
+gulp.task('img', function() {
   return gulp.src('./src/img/**/*')
     .pipe(psd2png())
     .pipe(gulp.dest('./dist/img'));
