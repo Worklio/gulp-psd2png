@@ -1,6 +1,6 @@
 {
   "name": "gulp-psd2png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image convertor, PSD to PNG, for Gulp",
   "main": "index.js",
   "scripts": {
