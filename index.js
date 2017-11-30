@@ -34,6 +34,10 @@ module.exports = function(file) {
         }));
       }
 
+      else {
+        this.push(file);
+      }
+
     } else {
       throw new Error('gulp-psd2png: Missing path in file options');
     }

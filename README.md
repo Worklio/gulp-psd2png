@@ -1,4 +1,4 @@
-#gulp-psd2png
+# gulp-psd2png
 Image convertor, PSD to PNG, for Gulp. It is using [psd2png](https://github.com/qdsang/psd2png).
 
 
